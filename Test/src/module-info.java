@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author justu
+ *
+ */
+module Test {
+}
